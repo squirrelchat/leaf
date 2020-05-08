@@ -1,0 +1,9 @@
+[package]
+name = "leaf"
+version = "0.1.0"
+authors = ["Bowser65 <bowoser@weeb.services>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
