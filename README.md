@@ -28,7 +28,7 @@ And more!
 
 ### Extra websites metadata
 For some websites, Leaf uses more than simply metadata but also scrapes website contents. Want to see more websites
-supported? File an issue or submit a PR!
+supported or a website support improved? File an issue or submit a PR!
 
  - Twitter:
    - Tweets: Retweets, Likes, Comments count
@@ -42,3 +42,7 @@ supported? File an issue or submit a PR!
  - Wikipedia
  - MyAnimeList
  - nhentai <!-- we got you fellow degenerates :^) -->
+
+### Robot Exclusion Protocol (REP) compliance
+Leaf does not behaves according to REP. Google's proposed standard has not been accepted as a RFC yet, and we don't
+feel Leaf's traffic should be governed by this protocol.
