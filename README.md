@@ -1,5 +1,5 @@
 # Leaf
-[![License](https://img.shields.io/github/license/squirrelchat/leaf.svg?style=flat-square)](https://github.com/squirrelchat/leaf/blob/master/LICENSE)
+[![License](https://img.shields.io/github/license/squirrelchat/leaf.svg?style=flat-square)](https://github.com/squirrelchat/leaf/blob/mistress/LICENSE)
 [![Discord](https://img.shields.io/badge/chat-on%20Discord-7289DA.svg?style=flat-square)](https://discord.gg/zhxhCzN)
 
 **NOTE**: This is in development and not usable yet.
@@ -17,12 +17,9 @@ completely independent service which can be ran on its own.
  - Media proxying: Prevent user's IP from leaking when displaying user-posted content on your application;
    - Image on-fly resize: Leaf can resize images on fly to reduce bandwidth usage and improve app's responsiveness.
    - Video & audio compression: Leaf compresses audio and video (lossy compression) to reduce bandwidth usage.
- - Reliable content detection: Leaf never uses extensions to identify a link contents but its `Content-Type` header to
-ensure accurate results;
- - Secure: Prevent abuse of the service by requiring a signature to query data from the service;
- - Highly scalable: Experiencing heavy loads? Deploy a new node, and there you go;
+ - Reliable content detection: Leaf never uses file extensions to identify a link contents but its `Content-Type`
+header to ensure accurate results;
  - Fast lookup: Leaf uses caching to enhance loading times when pinging multiple times the same link;
- - Threat protection: Leaf can use Google's Web Risk API to determine if a link is dangerous or not;
 
 And more!
 
