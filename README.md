@@ -38,7 +38,7 @@ supported or a website support improved? File an issue or submit a PR!
  - Discord
  - Wikipedia
  - MyAnimeList
- - nhentai <!-- we got you fellow degenerates :^) -->
+ - And more!
 
 ### Robot Exclusion Protocol (REP) compliance
 Leaf does not behaves according to REP. Google's proposed standard has not been accepted as a RFC yet, and we don't
